@@ -4,6 +4,7 @@ const ulRef = document.querySelector('#task-1');
 const imgRef = document.querySelector('.task-1__img');
 
 
+
 images.forEach(e => {
     const itemRef = `<li><img src="${e}" alt="" width="300"></li>`;
 
